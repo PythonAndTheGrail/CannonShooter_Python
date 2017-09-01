@@ -1,2 +1,2 @@
-# CannonShooter_Python
-This is a python based canon shooter game (incomplete)
+# GameTesting
+This repository includes multiple different games written in python using pygame. 
